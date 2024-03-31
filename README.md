@@ -1,2 +1,2 @@
 # vivaassistant.github.io
-my virtualassistant
+my Virtual Assistant created using HTML and JavaScript with some APIs.
